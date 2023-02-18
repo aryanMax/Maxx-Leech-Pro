@@ -1,5 +1,7 @@
 ![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/aryanMax/Maxx-Leech-Pro&branch=main&name=maxrest)
+
 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
 ![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
